@@ -10,5 +10,9 @@ We'd love to have your contributions to this project! Here are some guidelines:
 5. Push to the branch: `git push origin your-branch-name`
 6. Open a pull request
 
+## Code Style Guidelines
+- Please follow the coding standards and best practices when contributing, including proper indentation and naming conventions.
+- Ensure your code is well-commented and easy to understand.
+
 ## Issues
 Feel free to file issues on the [GitHub Issues page](https://github.com/yourusername/kanban-board-app/issues) if you find bugs or have suggestions.
