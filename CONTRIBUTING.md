@@ -10,6 +10,10 @@ We'd love to have your contributions to this project! Here are some guidelines:
 5. Push to the branch: `git push origin your-branch-name`
 6. Open a pull request
 
+## Testing your Changes
+- Before opening a pull request, please ensure that your changes pass all tests.
+- You can run the tests using the command: `npm test` (or your project's equivalent).
+
 ## Code Style Guidelines
 - Please follow the coding standards and best practices when contributing, including proper indentation and naming conventions.
 - Ensure your code is well-commented and easy to understand.
